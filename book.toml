@@ -1,0 +1,15 @@
+[book]
+authors = ["mjiee"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "linux notes"
+description="linux学习笔记"
+
+[output.html]
+git-repository-url = "https://gitee.com/mjiee/linuxnotes.git"
+git-repository-icon = "fa-github"
+edit-url-template = "https://gitee.com/mjiee/linuxnotes/edit/master/{path}"
+site-url = "/linux/"
+cname="book.mjiee.top"
+input-404 = "assets/404.md"
