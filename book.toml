@@ -7,6 +7,7 @@ title = "linux notes"
 description="linux学习笔记"
 
 [output.html]
+no-section-label = ture
 git-repository-url = "https://gitee.com/mjiee/linuxnotes.git"
 git-repository-icon = "fa-github"
 edit-url-template = "https://gitee.com/mjiee/linuxnotes/edit/master/{path}"
