@@ -1,7 +1,4 @@
----
-description: linux
+# Linux
 ---
 
-# Linux简介
-
-本部分主要介绍linux操作系统基础知识。
+Linux是一种自由和开放源码的类UNIX操作系统。

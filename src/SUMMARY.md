@@ -4,20 +4,43 @@
 
 # Linux
 
-- [Linux简介](linux/README.md)
+- [Linux](linux/README.md)
 - [1 Linux基础](linux/1-linux-ji-chu/README.md)
-- [2 编辑器](linux/2-bian-ji-qi/README.md)
-  - [2.1 vim](linux/2-bian-ji-qi/2.1-vim.md)
-  - [2.2 nano](linux/2-bian-ji-qi/2.2-nano.md)
-  - [2.3 vim开发IDE](linux/2-bian-ji-qi/2.3-vim-ka-fa-ide.md)
-
-# Shell
-
-- [Shell基础](shell/README.md)
+  - [1.1 linux安装](linux/1-linux-ji-chu/1.1-linux-an-zhuang.md)
+  - [1.2 常用命令](linux/1-linux-ji-chu/1.2-chang-yong-ming-ling.md)
+  - [1.3 文本编辑](linux/1-linux-ji-chu/1.3-wen-ben-bian-ji.md)
+  - [1.4 软件管理](linux/1-linux-ji-chu/1.4-ruan-jian-guan-li.md)
+  - [1.5 用户管理](linux/1-linux-ji-chu/1.5-yong-hu-guan-li.md)
+  - [1.6 文件系统](linux/1-linux-ji-chu/1.6-wen-jian-xi-tong.md)
+- [2 Shell](linux/2-shell-jiao-ben/README.md)
+  - [2.1 shell命令](linux/2-shell-jiao-ben/2.1-shell-ming-ling.md)
+  - [2.2 变量处理](linux/2-shell-jiao-ben/2.2-bian-liang-chu-li.md)
+  - [2.3 sed和awk](linux/2-shell-jiao-ben/2.3-sed-he-awk.md)
+  - [2.4 流程控制](linux/2-shell-jiao-ben/2.4-liu-cheng-kong-zhi.md)
+  - [2.5 函数和脚本](linux/2-shell-jiao-ben/2.5-han-shu-he-jiao-ben.md)
+- [3 系统管理](linux/3-xi-tong-guan-li/README.md)
+  - [3.1 启动管理](linux/3-xi-tong-guan-li/3.1-qi-dong-guan-li.md)
+  - [3.2 服务管理](linux/3-xi-tong-guan-li/3.2-fu-wu-guan-li.md)
+  - [3.3 进程和任务](linux/3-xi-tong-guan-li/3.3-jin-cheng-he-ren-wu.md)
+  - [3.4 日志管理](linux/3-xi-tong-guan-li/3.4-ri-zhi-guan-li.md)
+  - [3.5 防火墙](linux/3-xi-tong-guan-li/3.5-fang-huo-qiang.md)
+  - [3.6 其它服务](linux/3-xi-tong-guan-li/3.6-qi-ta-fu-wu.md)
 
 # Web
 
 - [Web服务](web/README.md)
+- [1 网络管理](web/1-wang-luo-guan-li/README.md)
+  - [1.1 网络基础](web/1-wang-luo-guan-li/1.1-wang-luo-ji-chu.md)
+  - [1.2 管理命令](web/1-wang-luo-guan-li/1.2-guan-li-ming-ling.md)
+  - [1.3 ssh服务](web/1-wang-luo-guan-li/1.3-ssh-fu-wu.md)
+- [2 nginx服务](web/2-nginx-fu-wu/README.md)
+  - [2.1 nginx基础](web/2-nginx-fu-wu/2.1-nginx-ji-chu.md)
+  - [2.2 重要模块](web/2-nginx-fu-wu/2.2-zhong-yao-mo-kuai.md)
+  - [2.3 常见问题](web/2-nginx-fu-wu/2.3-chang-jian-wen-ti.md)
+  - [2.4 ssl服务](web/2-nginx-fu-wu/2.4-ssl-fu-wu.md)
+- [3 http协议](web/3-http-xie-yi/README.md)
+  - [3.1 http基础](web/3-http-xie-yi/3.1-http-ji-chu.md)
+  - [3.2 http优化](web/3-http-xie-yi/3.2-http-you-hua.md)
 
 # Database
 
@@ -43,20 +66,49 @@
     - [1.3.1 主从复制](database/1-mysql/1.3-mysql-ji-qun/1.3.1-zhu-cong-fu-zhi.md)
 - [2 Postgresql](database/2-pgsql/README.md)
 - [3 Redis](database/3-redis/README.md)
-- [4 MongoDB](database/4-mongodb/README.md)
+  - [3.1 redis基础](database/3-redis/3.1-redis-ji-chu/README.md)
+    - [3.1.1 安装与连接](database/3-redis/3.1-redis-ji-chu/3.1.1-an-zhuang-yu-lian-jie.md)
+    - [3.1.2 键和库](database/3-redis/3.1-redis-ji-chu/3.1.2-jian-yu-ku.md)
+    - [3.1.3 string类型](database/3-redis/3.1-redis-ji-chu/3.1.3-string-lei-xing.md)
+    - [3.1.4 hash类型](database/3-redis/3.1-redis-ji-chu/3.1.4-hash-lei-xing.md)
+    - [3.1.5 list类型](database/3-redis/3.1-redis-ji-chu/3.1.5-list-lei-xing.md)
+    - [3.1.6 set类型](database/3-redis/3.1-redis-ji-chu/3.1.6-set-lei-xing.md)
+    - [3.1.7 zset类型](database/3-redis/3.1-redis-ji-chu/3.1.7-zset-lei-xing.md)
+    - [3.1.8 发布订阅](database/3-redis/3.1-redis-ji-chu/3.1.8-fa-bu-ding-yue.md)
+    - [3.1.9 其它功能](database/3-redis/3.1-redis-ji-chu/3.1.9-qi-ta-gong-neng.md)
+  - [3.2 redis管理](database/3-redis/3.2-redis-guan-li/README.md)
+    - [3.2.1 备份恢复](database/3-redis/3.2-redis-guan-li/3.2.1-bei-fen-hui-fu.md)
+    - [3.2.2 reids优化](database/3-redis/3.2-redis-guan-li/3.2.2-redis-you-hua.md)
+- [4 MongoDB](database/4-mongo/README.md)
+  - [4.1 mongo基础](database/4-mongo/database/4-mongo/4.1-mongo-ji-chu/README.md)
+    - [4.1.1 安装](database/4-mongo/4.1-mongo-ji-chu/4.1.1-an-zhuang.md)
+    - [4.1.2 连接](database/4-mongo/4.1-mongo-ji-chu/4.1.2-lian-jie.md)
+    - [4.1.3 集合文档](database/4-mongo/4.1-mongo-ji-chu/4.1.3-ji-he-wen-dang.md)
+    - [4.1.4 查询](database/4-mongo/4.1-mongo-ji-chu/4.1.4-cha-xun.md)
+    - [4.1.5 聚合关联](database/4-mongo/4.1-mongo-ji-chu/4.1.5-ju-he-guan-lian.md)
+    - [4.1.6 索引](database/4-mongo/4.1-mongo-ji-chu/4.1.6-suo-yin.md)
+  - [4.2 mongo管理](database/4-mongo/4.2-mongo-guan-li/README.md)
+    - [4.2.1 备份恢复](database/4-mongo/4.2-mongo-guan-li/4.2.1-bei-fen-hui-fu.md)
+    - [4.2.2 mongo优化](database/4-mongo/4.2-mongo-guan-li/4.2.2-mongo-you-hua.md)
 
 # Container
 
 - [容器服务](container/README.md)
 - [1 Docker](container/1-docker/README.md)
+  - [1.1 docker基础](container/1-docker/1.1-docker-ji-chu.md)
+  - [1.2 docker管理](container/1-docker/1.2-docker-guan-li.md)
+  - [1.3 常见问题](container/1-docker/1.3-chang-jian-wen-ti.md)
 - [2 Kubernetes](container/2-k8s/README.md)
 
 # Tools
 
 - [常用工具](tools/README.md)
 - [1 Git](tools/1-git/README.md)
+  - [1.1 git基础](tools/1-git/1.1-git-ji-chu.md)
+  - [1.2 git进阶](tools/1-git/1.2-git-jin-jie.md)
 - [2 Book](tools/2-book/README.md)
   - [2.1 gitbook](tools/2-book/2.1-gitbook.md)
   - [2.2 mdbook](tools/2-book/2.2-mdbook.md)
   - [2.3 markdown](tools/2-book/2.3-markdown.md)
-
+- [3 Ansible](tools/3-ansible/README.md)
+- [4 Jenkins](tools/4-jenkins/README.md)

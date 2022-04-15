@@ -1,8 +1,5 @@
----
-description: Gitbook是一个使用git和markdown来构建书籍的工具
----
-
 # 二 GitBook
+---
 
 Gitbook是一个使用git和markdown来构建书籍的工具, 其支持多种输出格式: pdf, ePub, mobi或静态网页。
 
