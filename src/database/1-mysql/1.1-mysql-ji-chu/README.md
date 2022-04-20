@@ -1,8 +1,5 @@
+# Mysql基础
 ---
-description: mysql使用
----
-
-# 1.1 Mysql基础
 
 本章主要介绍mysql安装和客户端使用。
 

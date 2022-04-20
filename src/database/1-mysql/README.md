@@ -1,8 +1,5 @@
+# Mysql
 ---
-description: mysql
----
-
-# 1 Mysql
 
 Mysql是开源的关系型数据库管理系统。
 
