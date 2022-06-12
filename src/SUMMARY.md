@@ -62,7 +62,7 @@
     - [1.2.3 存储引擎](database/1-mysql/1.2-mysql-guan-li/1.2.3-cun-chu-yin-qing.md)
     - [1.2.4 日志管理](database/1-mysql/1.2-mysql-guan-li/1.2.4-ri-zhi-guan-li.md)
     - [1.2.5 备份恢复](database/1-mysql/1.2-mysql-guan-li/1.2.5-bei-fen-hui-fu.md)
-    - [1.2.6 主从复制](database/1-mysql/1.2-mysql-ji-qun/1.2.6-zhu-cong-fu-zhi.md)
+    - [1.2.6 主从复制](database/1-mysql/1.2-mysql-guan-li/1.2.6-zhu-cong-fu-zhi.md)
   - [1.3 常见问题](database/1-mysql/1.3-chang-jian-wen-ti/README.md)
     - [1.3.1 性能优化](database/1-mysql/1.3-chang-jian-wen-ti/1.3.1-xing-neng-you-hua.md)
 - [2 Postgresql](database/2-pgsql/README.md)
