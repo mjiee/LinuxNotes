@@ -113,6 +113,7 @@
   - [1.3 docker集群](container/1-docker/1.3-docker-ji-qun.md)
   - [1.4 常见问题](container/1-docker/1.4-chang-jian-wen-ti.md)
 - [2 Kubernetes](container/2-k8s/README.md)
+  - [2.1 k8s部署](container/2-k8s/2.1-k8s-bu-shu.md)
 
 # Tools
 
